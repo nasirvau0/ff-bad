@@ -1,8 +1,8 @@
 # Obfuscated with PyObfuscate
-#ENCRYPTED BY :ANONYMOUS U7P4L
+#ENCRYPTED BY :ANONYDMOUS U7P4L
 #VERSION :ALPHA
 #GITHUB : https://github.com/U7P4L-IN
-#FEEL THE POWER OF U7P4L...
+#FEEL THE POWERR OF U7P4L...
 # Time : Wed Oct  4 04:12:09 2023
 # -------------------------------
 ###------------------------------MAIN>MENU-----------------------------###
